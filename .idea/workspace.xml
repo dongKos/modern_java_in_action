@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1c122dac-ccd2-48e0-98a8-0cfe71256277" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/behavior_parameterized/chapter2_1/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/behavior_parameterized/chapter2_1/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/behavior_parameterized/chapter2_1/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/behavior_parameterized/chapter2_2/AppleGreenColorPredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/behavior_parameterized/chapter2_2/AppleHeavyWeightPredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/behavior_parameterized/chapter2_2/ApplePredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/behavior_parameterized/chapter2_2/AppleRedAndHeavyWeightPredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/behavior_parameterized/chapter2_2/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/behavior_parameterized/chapter2_2/pretty_print/AppleColorPrettyPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/behavior_parameterized/chapter2_2/pretty_print/ApplePrettyPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/behavior_parameterized/chapter2_2/pretty_print/AppleWeightPrettyPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/behavior_parameterized/chapter2_2/pretty_print/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/behavior_parameterized/chapter2_3/AnonymousClassRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/behavior_parameterized/chapter2_3/GenericRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/behavior_parameterized/chapter2_3/LambdaRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/behavior_parameterized/chapter2_4/CallableRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/behavior_parameterized/chapter2_4/RunnableRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/behavior_parameterized/chapter2_4/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lambda/chapter3_3/BufferedReaderProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lambda/chapter3_3/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lambda/chapter3_3/consumer/ConsumerRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lambda/chapter3_3/function/FunctionRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lambda/chapter3_3/predicate/PredicateRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lambda/chapter3_3/supplier/SupplierRunner.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2TECGszoO0HLU9n10iS3btSsInd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="behavior_parameterized.chapter2_2.pretty_print" />
+      <recent name="behavior_parameterized.chapter2_2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SupplierRunner">
+    <configuration name="ConsumerRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambda.chapter3_3.consumer.ConsumerRunner" />
+      <module name="modern_java_in_action.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lambda.chapter3_3.consumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambda.chapter3_3.function.FunctionRunner" />
+      <module name="modern_java_in_action.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lambda.chapter3_3.function.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenericRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="behavior_parameterized.chapter2_3.GenericRunner" />
+      <module name="modern_java_in_action.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="behavior_parameterized.chapter2_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PredicateRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambda.chapter3_3.predicate.PredicateRunner" />
+      <module name="modern_java_in_action.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lambda.chapter3_3.predicate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SupplierRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambda.chapter3_3.supplier.SupplierRunner" />
+      <module name="modern_java_in_action.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lambda.chapter3_3.supplier.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SupplierRunner" />
+        <item itemvalue="Application.FunctionRunner" />
+        <item itemvalue="Application.PredicateRunner" />
+        <item itemvalue="Application.ConsumerRunner" />
+        <item itemvalue="Application.GenericRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c122dac-ccd2-48e0-98a8-0cfe71256277" name="Changes" comment="" />
+      <created>1690598761255</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690598761255</updated>
+      <workItem from="1690598763213" duration="10335000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
