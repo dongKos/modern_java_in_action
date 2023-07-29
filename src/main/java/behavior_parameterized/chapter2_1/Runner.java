@@ -20,7 +20,9 @@ public class Runner {
             new Apple(GREEN, 10),
             new Apple(RED, 15),
             new Apple(GREEN, 20),
+            new Apple(GREEN, 30),
             new Apple(RED, 5),
+            new Apple(RED, 10),
             new Apple(RED, 8),
             new Apple(RED, 30),
             new Apple(RED, 40)
