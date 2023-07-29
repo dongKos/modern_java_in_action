@@ -1,4 +1,4 @@
-package lambda.chapter3_3.predicate;
+package lambda.chapter3_4.predicate;
 
 import java.util.function.IntPredicate;
 import java.util.function.Predicate;

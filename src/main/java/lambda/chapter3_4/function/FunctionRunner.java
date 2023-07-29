@@ -1,4 +1,4 @@
-package lambda.chapter3_3.function;
+package lambda.chapter3_4.function;
 
 import behavior_parameterized.chapter2_1.Apple;
 import behavior_parameterized.chapter2_1.Color;
